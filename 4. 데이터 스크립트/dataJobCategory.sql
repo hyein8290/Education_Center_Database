@@ -1,0 +1,9 @@
+INSERT INTO tblJobCategory VALUES ('Java');
+INSERT INTO tblJobCategory VALUES ('데이터베이스관리자');
+INSERT INTO tblJobCategory VALUES ('AI');
+INSERT INTO tblJobCategory VALUES ('웹디자인');
+INSERT INTO tblJobCategory VALUES ('SQL');
+INSERT INTO tblJobCategory VALUES ('웹퍼블리셔');
+INSERT INTO tblJobCategory VALUES ('백엔드개발자');
+INSERT INTO tblJobCategory VALUES ('게임');
+INSERT INTO tblJobCategory VALUES ('기타');

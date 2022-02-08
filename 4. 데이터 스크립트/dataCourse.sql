@@ -1,0 +1,18 @@
+INSERT INTO tblCourse VALUES (1,'자바 기반 웹 개발자 양성 과정',5.5);
+INSERT INTO tblCourse VALUES (2,'PHP + Laravel 프레임워크를 이용한 웹 개발 실무',6);
+INSERT INTO tblCourse VALUES (3,'Ruby + Ruby on Rails 웹 개발자 양성 과정',7);
+INSERT INTO tblCourse VALUES (4,'Android App 개발자 양성 과정',5.5);
+INSERT INTO tblCourse VALUES (5,'Unreal 엔진을 활용한 게임 개발자 양성 과정',6);
+INSERT INTO tblCourse VALUES (6,'HTML/CSS UI N UX 웹 디자인 개발자 양성과정',7);
+INSERT INTO tblCourse VALUES (7,'Java 기반 웹 Full-Stack 개발자 양성 과정',5.5);
+INSERT INTO tblCourse VALUES (8,'iOS 모바일 앱 개발자 양성 과정',6);
+INSERT INTO tblCourse VALUES (9,'Unreal 엔진을 활용한 게임 개발자 양성 과정',7);
+INSERT INTO tblCourse VALUES (10,'Java 기반 임베디드 플랫폼 연동 융합 개발자 양성 과정',5.5);
+INSERT INTO tblCourse VALUES (11,'Java 기반 AWS 연동 웹 애플리케이션 개발자 양성 과정',6);
+INSERT INTO tblCourse VALUES (12,'HTML/CSS UI N UX 웹 디자인 개발자 양성과정',7);
+INSERT INTO tblCourse VALUES (13,'JavaScript 기반 응용 웹 Full-Stack 개발자 양성과정',5.5);
+INSERT INTO tblCourse VALUES (14,'JAVA N Spring 프레임워크 웹 개발자 양성 과정',6);
+INSERT INTO tblCourse VALUES (15,'React 기반 응용 Front-end 개발자 양성과정',7);
+INSERT INTO tblCourse VALUES (16,'Unity 엔진을 활용한 게임 개발자 양성 과정',5.5);
+INSERT INTO tblCourse VALUES (17,'DBA 데이터베이스관리자 양성과정',6);
+INSERT INTO tblCourse VALUES (18,'AI 활용 소프트웨어 개발 및 응용과정',7);
